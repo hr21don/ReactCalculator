@@ -47,5 +47,9 @@ ReactDOM.render(
 
 An example output as follows....
 
-<img width="73" alt="capture" src="https://user-images.githubusercontent.com/91548582/142885337-6a50555b-4dc3-489a-bc2d-26cff94e137a.PNG">
+* 3
+* 2
+* 0.5
+* -1
+
 
