@@ -45,7 +45,7 @@ ReactDOM.render(
 
 ## Output
 
-An example output as follows.... || Get in touch if you have trouble launching the app!
+On App execution, the example output would display the following! || Get in touch if you have trouble launching the app!
 
 * 3
 * 2
